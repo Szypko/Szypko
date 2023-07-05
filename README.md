@@ -12,7 +12,7 @@
 # Specifications
 - Minecraft
 - Valorant
-- Discord
+- Discord - Szypko#6509(page_error)
 
 ## Github Stats
 ![Szypko's Github stats](https://github-readme-stats.vercel.app/api?username=Szypko&show_icons=true&theme=tokyonight)
