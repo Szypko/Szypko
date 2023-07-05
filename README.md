@@ -11,6 +11,7 @@
 
 # Specifications
 - Minecraft
+- Valorant
 - Discord
 
 ## Github Stats
