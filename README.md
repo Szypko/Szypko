@@ -8,6 +8,7 @@
  - C
  - C++
  - HTML
+ - Python
 
 # Specifications
 - Minecraft
