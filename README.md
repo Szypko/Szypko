@@ -13,7 +13,7 @@
 # Specifications
 - Minecraft
 - Valorant
-- Discord - Szypko#6509(page_error)
+- Discord - luca.class
 
 ## Github Stats
 ![Szypko's Github stats](https://github-readme-stats.vercel.app/api?username=Szypko&show_icons=true&theme=tokyonight)
