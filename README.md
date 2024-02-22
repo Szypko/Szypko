@@ -13,7 +13,7 @@
 # Specifications
 - Minecraft
 - Valorant
-- Discord - luca.class
+- Discord - luca.java
 
 ## Github Stats
 ![Szypko's Github stats](https://github-readme-stats.vercel.app/api?username=Szypko&show_icons=true&theme=tokyonight)
